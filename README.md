@@ -12,12 +12,12 @@ https://data-flair.training/blogs/install-pandas-on-windows/
 
 the output of the script will display the pool name, used_ips, remaining_ips, total_ips. below is the format in which it will be displayed.
 
-pool: khi-cbbr2
-used_ips: 61603
-remaining_ips: 1885
-total_ips: 63488
-pool: khi-cbbr3
-used_ips: 57482
+pool: khi-cbbr2 
+used_ips: 61603 
+remaining_ips: 1885 
+total_ips: 63488 
+pool: khi-cbbr3 
+used_ips: 57482 
 remaining_ips: 6006
 total_ips: 63488
 pool: cbbr3-activity
