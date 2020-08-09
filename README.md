@@ -28,5 +28,7 @@ A screen shot is also attched in the repositry to show the output of the script.
 
 to run this file directly from the cmd. cd into the directory Data_parser and run the below command.
   
+
+    python data_parser.py
   
-  python 
+
