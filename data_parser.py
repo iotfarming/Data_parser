@@ -28,7 +28,7 @@ for pool in pools:
     cbbr[pool]['total_ips'] += total
 
 
-print(cbbr['khi-cbbr2'])
+#print(cbbr['khi-cbbr2'])
 
 for pool in cbbr:
     print("pool: {}".format(cbbr[pool]['pool_name']))
