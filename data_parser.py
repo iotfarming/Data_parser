@@ -31,7 +31,8 @@ for pool in pools:
 #print(cbbr['khi-cbbr2'])
 
 for pool in cbbr:
-    print("pool: {}".format(cbbr[pool]['pool_name']))
-    print("used_ips: {}".format(cbbr[pool]['used_ips']))
-    print("remaining_ips: {}".format(cbbr[pool]['remaining_ips']))
-    print("total_ips: {}".format(cbbr[pool]['total_ips']))
+    print("pool {} used_ips: {}".format(cbbr[pool]['pool_name'],cbbr[pool]['used_ips'])) 
+    #print("pool: {}".format(cbbr[pool]['pool_name']))
+    #print("used_ips: {}".format(cbbr[pool]['used_ips']))
+    #print("remaining_ips: {}".format(cbbr[pool]['remaining_ips']))
+    #print("total_ips: {}".format(cbbr[pool]['total_ips']))
